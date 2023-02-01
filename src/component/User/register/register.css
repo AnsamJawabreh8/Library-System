@@ -1,0 +1,16 @@
+.register{
+    height: 70%;
+    margin-top: 30px;
+    padding: 70px;
+    background-color: rgba(248, 146, 244, 0.3);;
+    color: rgb(115, 45, 245);
+}
+.register button{
+    background-color: rgb(115, 45, 245);
+    color: rgb(255, 255, 255);
+}
+.greating{
+color: rgb(115, 45, 245);
+height: 70%px;
+margin-top: 30px;
+}

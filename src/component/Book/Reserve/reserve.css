@@ -1,0 +1,91 @@
+.details{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to top, #2f1658, #e4c5f1);
+
+}
+.reserve{
+    margin: auto;
+    height:100vh;
+    background: linear-gradient(to top, #2f1658, #e4c5f1);
+}
+.Bayerform{
+  margin: auto;
+   padding: 1px 50px;
+   width: 700px;
+   height: auto;
+   background-color: #fafafa;
+   }
+.Bayer{
+  height: 100vh;
+  background: linear-gradient(to top, #2f1658, #e4c5f1);
+}
+.imageR{
+    margin-left: 250px;
+    width: 800px;
+    height: 500px;
+}
+.PayMethod{
+    font-size: 15px;
+}
+.reservenav{
+   background-color: #e4c5f1;
+}
+.book-details{
+  font-family: 'Exo 2', sans-serif;
+  font-family: 'Lobster', cursive;
+}
+.book-details h1{
+    color: #2f1658;
+}
+.info{
+width: 50%;
+}
+.reservebtn{
+    margin-left: 35%;
+    width: 25%;
+    border: none;
+    background-color:#e4c5f1;
+}
+.Bayerform button, .Payment button{
+    background-color: #401f4e;
+    margin-left: 25%;
+}
+.Bayerform button:hover , .Payment button:hover{
+    background-color: #b648e5;
+}
+.Payment{
+    height:100vh;
+    background: linear-gradient(to top, #2f1658, #e4c5f1);
+}
+.Payment .cont{
+    width: 50%;
+    
+}
+.card-wrap{
+    width: 75%;
+}
+.reservenav button{ 
+font-family: 'Exo 2', sans-serif;
+font-family: 'Lobster', cursive;
+border: none; 
+color: #9009a2;
+}
+.title{
+    text-shadow: 5px 1px #9009a2;
+}
+@media only screen and (max-width: 1199px) {
+    .Payment .cont{
+        width: 90%;
+    }
+    .info{
+        width: 100%;
+    }
+    .card-wrap{
+        width: 100%;
+    }
+    .reservebtn{
+        width: 50%;
+    }
+  }
+ 

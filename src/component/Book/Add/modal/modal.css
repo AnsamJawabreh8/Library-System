@@ -1,0 +1,16 @@
+.txt{
+    font-size: small;
+    font-weight: 50px;
+}
+.wrap{
+    width: 700px;
+}
+.authorcont{
+    font-size: 15px;
+}
+.modalform{
+    background-color: rgba(223, 127, 220, 0.3);
+}
+.modlbtn{
+    margin-left: 80%;
+}

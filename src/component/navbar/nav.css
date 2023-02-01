@@ -1,0 +1,19 @@
+.nav{
+    margin: auto;
+    font-size: 20px;
+    font-weight:600;
+    background-color: #e4c5f1;
+    font-family: 'Exo 2', sans-serif;
+    color: rgb(115, 45, 245);
+    position: fixed;
+    width: 100%;
+    z-index: 9999999;
+   }
+   .icon{
+    color: #542867;
+   }
+  .icon-text{
+      font-family: 'Exo 2', sans-serif;
+      font-family: 'Lobster', cursive;
+      color: #542867;
+  }

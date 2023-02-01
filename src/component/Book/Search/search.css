@@ -1,0 +1,51 @@
+.searchbody {
+    
+    padding: 100px 30px;
+    width: 100%;
+    height: auto;
+    background: linear-gradient(to top, #2f1658, #e4c5f1);
+}
+.searchbox{
+    width: 98%;
+    height: 530px;
+    margin: auto;
+    color: rgb(115, 45, 245);
+    background-color: rgb(255, 255, 255);
+    font-family: 'Exo 2', sans-serif;
+    font-weight: bold;
+}
+.cont{
+    width: 75%;
+    background-color: #e2b0f8;
+}
+.findbook{
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Lobster', cursive;
+    color: rgb(115, 45, 245);
+}
+.resultNF{
+    margin-bottom: 160px;
+    font-family: 'Exo 2', sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+}
+.search-result{
+    font-family: 'Exo 2', sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    text-align: center;
+}
+.reserve-button{
+    background-color: rgb(115, 45, 245);
+    border: none;
+}
+@media only screen and (max-width: 1199px) {
+    .searchbox {
+      width: 95%;
+      height: auto;
+    }
+    .cont {
+      width: 95%;
+    }
+  }
+  

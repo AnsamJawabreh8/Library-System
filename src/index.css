@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Lobster&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Lobster&display=swap');
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Exo 2', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.input{
+  width: 90px;
+  text-align: left;
+}
+.form-input{
+ margin-top: 50px;
+}
+
+
+
+
+
+
+

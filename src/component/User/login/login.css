@@ -1,0 +1,29 @@
+.signin{
+height: 100vh;
+background-image: url('background.png');
+background-position: center;
+background-size: cover;
+}
+.signin .cont{
+    width: 500px;
+    height: 550px;
+    margin-left: 50px;
+    padding: 20px;
+    background-color: rgba(248, 146, 244, 0.3);
+}
+.signin .cont h1{
+    text-align: center;
+    padding-top: 20px;
+   margin-bottom: 130px;
+   color: rgb(115, 45, 245);
+}
+.signin .cont button{
+    width: 250px;
+    margin-left:90px;
+    background-color: rgb(115, 45, 245);
+    color: rgb(255, 255, 255);
+}
+.signin .cont p{
+    margin-left:100px ;
+    font-weight: bold;
+}
